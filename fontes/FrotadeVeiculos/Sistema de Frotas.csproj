@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EFD393B9-6CC0-461A-A51E-164D2E95764A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>wf_FrotadeVeiculos</RootNamespace>
+    <AssemblyName>Sistema de Frotas</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Lorry_Green_icon-icons.com_54887 %281%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Abastecimento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abastecimento.Designer.cs">
+      <DependentUpon>Abastecimento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Adicionar Manutenção.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Adicionar Manutenção.Designer.cs">
+      <DependentUpon>Adicionar Manutenção.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Adicionar Veiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Adicionar Veiculo.Designer.cs">
+      <DependentUpon>Adicionar Veiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alertas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alertas.Designer.cs">
+      <DependentUpon>Alertas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alterar Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alterar Cliente.Designer.cs">
+      <DependentUpon>Alterar Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alterar Motorista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alterar Motorista.Designer.cs">
+      <DependentUpon>Alterar Motorista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alterar Veiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alterar Veiculo.Designer.cs">
+      <DependentUpon>Alterar Veiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro de Usuário.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro de Usuário.Designer.cs">
+      <DependentUpon>Cadastro de Usuário.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro de Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro de Cliente.Designer.cs">
+      <DependentUpon>Cadastro de Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cobrancas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cobrancas.Designer.cs">
+      <DependentUpon>Cobrancas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Entrada de Veiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Entrada de Veiculo.Designer.cs">
+      <DependentUpon>Entrada de Veiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Saída de Veiculos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Saída de Veiculos.Designer.cs">
+      <DependentUpon>Saída de Veiculos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excluir Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Excluir Cliente.Designer.cs">
+      <DependentUpon>Excluir Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excluir Motoristas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Excluir Motoristas.Designer.cs">
+      <DependentUpon>Excluir Motoristas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excluir Usuário.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Excluir Usuário.Designer.cs">
+      <DependentUpon>Excluir Usuário.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excluir Veiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Excluir Veiculo.Designer.cs">
+      <DependentUpon>Excluir Veiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Exibir Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Exibir Cliente.Designer.cs">
+      <DependentUpon>Exibir Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Exibir Motoristas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Exibir Motoristas.Designer.cs">
+      <DependentUpon>Exibir Motoristas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Exibir Usuário.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Exibir Usuário.Designer.cs">
+      <DependentUpon>Exibir Usuário.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTeladeLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTeladeLogin.Designer.cs">
+      <DependentUpon>FrmTeladeLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Locação.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Locação.Designer.cs">
+      <DependentUpon>Locação.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manutençao Prevista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manutençao Prevista.Designer.cs">
+      <DependentUpon>Manutençao Prevista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Adicionar Motorista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Adicionar Motorista.Designer.cs">
+      <DependentUpon>Adicionar Motorista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Multas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Multas.Designer.cs">
+      <DependentUpon>Multas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pagamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pagamentos.Designer.cs">
+      <DependentUpon>Pagamentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Peças.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Peças.Designer.cs">
+      <DependentUpon>Peças.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pneus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pneus.Designer.cs">
+      <DependentUpon>Pneus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Sobre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sobre.Designer.cs">
+      <DependentUpon>Sobre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Solicitação de Pneus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Solicitação de Pneus.Designer.cs">
+      <DependentUpon>Solicitação de Pneus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicos.Designer.cs">
+      <DependentUpon>Servicos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela Inicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela Inicial.Designer.cs">
+      <DependentUpon>Tela Inicial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VALIDAR LOGIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VALIDAR LOGIN.Designer.cs">
+      <DependentUpon>VALIDAR LOGIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExibirVeiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExibirVeiculo.Designer.cs">
+      <DependentUpon>ExibirVeiculo.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Abastecimento.resx">
+      <DependentUpon>Abastecimento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Adicionar Manutenção.resx">
+      <DependentUpon>Adicionar Manutenção.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Adicionar Veiculo.resx">
+      <DependentUpon>Adicionar Veiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alertas.resx">
+      <DependentUpon>Alertas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alterar Cliente.resx">
+      <DependentUpon>Alterar Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alterar Motorista.resx">
+      <DependentUpon>Alterar Motorista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alterar Veiculo.resx">
+      <DependentUpon>Alterar Veiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastro de Usuário.resx">
+      <DependentUpon>Cadastro de Usuário.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastro de Cliente.resx">
+      <DependentUpon>Cadastro de Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cobrancas.resx">
+      <DependentUpon>Cobrancas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Entrada de Veiculo.resx">
+      <DependentUpon>Entrada de Veiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Saída de Veiculos.resx">
+      <DependentUpon>Saída de Veiculos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Excluir Cliente.resx">
+      <DependentUpon>Excluir Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Excluir Motoristas.resx">
+      <DependentUpon>Excluir Motoristas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Excluir Usuário.resx">
+      <DependentUpon>Excluir Usuário.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Excluir Veiculo.resx">
+      <DependentUpon>Excluir Veiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Exibir Cliente.resx">
+      <DependentUpon>Exibir Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Exibir Motoristas.resx">
+      <DependentUpon>Exibir Motoristas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Exibir Usuário.resx">
+      <DependentUpon>Exibir Usuário.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTeladeLogin.resx">
+      <DependentUpon>FrmTeladeLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Locação.resx">
+      <DependentUpon>Locação.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manutençao Prevista.resx">
+      <DependentUpon>Manutençao Prevista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Adicionar Motorista.resx">
+      <DependentUpon>Adicionar Motorista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Multas.resx">
+      <DependentUpon>Multas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pagamentos.resx">
+      <DependentUpon>Pagamentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Peças.resx">
+      <DependentUpon>Peças.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pneus.resx">
+      <DependentUpon>Pneus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sobre.resx">
+      <DependentUpon>Sobre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Solicitação de Pneus.resx">
+      <DependentUpon>Solicitação de Pneus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicos.resx">
+      <DependentUpon>Servicos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela Inicial.resx">
+      <DependentUpon>Tela Inicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VALIDAR LOGIN.resx">
+      <DependentUpon>VALIDAR LOGIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExibirVeiculo.resx">
+      <DependentUpon>ExibirVeiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\bll\bll.csproj">
+      <Project>{34ae908c-57ff-485d-820a-16b2172563b4}</Project>
+      <Name>bll</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\dal\dal.csproj">
+      <Project>{A20A2720-77D1-4414-A4B2-364C4416C80C}</Project>
+      <Name>dal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\dto\dto.csproj">
+      <Project>{e70caf5a-b15d-4640-b215-bb0a938353fe}</Project>
+      <Name>dto</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Lorry_Green_icon-icons.com_54887 %281%29.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

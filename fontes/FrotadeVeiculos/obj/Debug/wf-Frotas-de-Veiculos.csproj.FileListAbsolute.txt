@@ -1,0 +1,390 @@
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-Frotas-de-Veiculos.csprojAssemblyReference.cache
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Adcionar_Manutenção.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Adicionar_Veiculo_Próprio.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Cadastro_de_Usuário.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.FrmTeladeLogin.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Motorista_Próprio.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Tela_Inicial.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-Frotas-de-Veiculos.csproj.GenerateResource.cache
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-FrotadeVeiculos.exe
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-FrotadeVeiculos.pdb
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\bin\Debug\wf-FrotadeVeiculos.exe.config
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\bin\Debug\wf-FrotadeVeiculos.exe
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\bin\Debug\wf-FrotadeVeiculos.pdb
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Properties.Resources.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-Frotas-de-Veiculos.csproj.CoreCompileInputs.cache
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Cliente_.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Abastecimento.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Multas.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Peças.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Pneus.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Requisição_de_Manuntenção.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Exibir_Motoristas.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Motoristas.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Cliente.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Exibir_Cliente.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Usuário.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Exibir_Usuário.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Manutençao_Prevista.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Locação.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Veiculo.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Cobrancas.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Pagamentos.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Servicos.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\bin\Debug\bll.dll
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dto.dll
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dal.dll
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\bin\Debug\bll.pdb
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dto.pdb
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dal.pdb
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-Frotas-de-Veiculos.csproj.CopyComplete
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alterar_Veiculo.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Veiculo.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alterar_Motorista.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.VALIDAR_LOGIN.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alterar_Cliente.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Entrada_de_Veiculo.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Entradas_de_Veiculos.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alertas.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\wf-FrotadeVeiculos.exe.config
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\wf-FrotadeVeiculos.exe
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\wf-FrotadeVeiculos.pdb
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\bll.dll
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dal.dll
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dto.dll
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\bll.pdb
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dal.pdb
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dto.pdb
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-Frotas-de-Veiculos.csprojAssemblyReference.cache
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Abastecimento.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Adcionar_Manutenção.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Adicionar_Veiculo_Próprio.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alertas.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alterar_Cliente.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alterar_Motorista.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alterar_Veiculo.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Cadastro_de_Usuário.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Cliente_.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Cobrancas.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Entrada_de_Veiculo.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Entradas_de_Veiculos.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Cliente.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Motoristas.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Usuário.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Veiculo.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Exibir_Cliente.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Exibir_Motoristas.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Exibir_Usuário.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.FrmTeladeLogin.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Locação.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Manutençao_Prevista.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Motorista_Próprio.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Multas.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Pagamentos.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Peças.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Pneus.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Properties.Resources.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Requisição_de_Manuntenção.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Servicos.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Tela_Inicial.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.VALIDAR_LOGIN.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Veiculo.resources
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-Frotas-de-Veiculos.csproj.GenerateResource.cache
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-Frotas-de-Veiculos.csproj.CoreCompileInputs.cache
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-Frotas-de-Veiculos.csproj.CopyComplete
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-FrotadeVeiculos.exe
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-FrotadeVeiculos.pdb
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\wf-FrotadeVeiculos.exe.config
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\wf-FrotadeVeiculos.exe
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\wf-FrotadeVeiculos.pdb
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\bll.dll
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dal.dll
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dto.dll
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\bll.pdb
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dal.pdb
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dto.pdb
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-Frotas-de-Veiculos.csprojAssemblyReference.cache
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Abastecimento.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Adcionar_Manutenção.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Adicionar_Veiculo_Próprio.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alertas.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alterar_Cliente.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alterar_Motorista.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alterar_Veiculo.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Cadastro_de_Usuário.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Cliente_.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Cobrancas.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Entrada_de_Veiculo.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Entradas_de_Veiculos.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Cliente.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Motoristas.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Usuário.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Veiculo.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Exibir_Cliente.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Exibir_Motoristas.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Exibir_Usuário.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.FrmTeladeLogin.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Locação.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Manutençao_Prevista.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Motorista_Próprio.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Multas.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Pagamentos.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Peças.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Pneus.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Properties.Resources.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Requisição_de_Manuntenção.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Servicos.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Tela_Inicial.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.VALIDAR_LOGIN.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Veiculo.resources
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-Frotas-de-Veiculos.csproj.GenerateResource.cache
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-Frotas-de-Veiculos.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-Frotas-de-Veiculos.csproj.CopyComplete
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-FrotadeVeiculos.exe
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-FrotadeVeiculos.pdb
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Sobre.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\wf-FrotadeVeiculos.exe.config
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\wf-FrotadeVeiculos.exe
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\wf-FrotadeVeiculos.pdb
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\bll.dll
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dal.dll
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dto.dll
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\bll.pdb
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dal.pdb
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dto.pdb
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-Frotas-de-Veiculos.csprojAssemblyReference.cache
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Abastecimento.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Adcionar_Manutenção.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Adicionar_Veiculo_Próprio.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alertas.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alterar_Cliente.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alterar_Motorista.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alterar_Veiculo.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Cadastro_de_Usuário.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Cliente_.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Cobrancas.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Entrada_de_Veiculo.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Entradas_de_Veiculos.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Cliente.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Motoristas.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Usuário.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Veiculo.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Exibir_Cliente.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Exibir_Motoristas.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Exibir_Usuário.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.FrmTeladeLogin.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Locação.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Manutençao_Prevista.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Motorista_Próprio.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Multas.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Pagamentos.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Peças.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Pneus.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Properties.Resources.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Sobre.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Requisição_de_Manuntenção.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Servicos.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Tela_Inicial.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.VALIDAR_LOGIN.resources
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-Frotas-de-Veiculos.csproj.GenerateResource.cache
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-Frotas-de-Veiculos.csproj.CoreCompileInputs.cache
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-Frotas-de-Veiculos.csproj.CopyComplete
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-FrotadeVeiculos.exe
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-FrotadeVeiculos.pdb
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.ExibirVeiculo.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-Frotas-de-Veiculos.csprojAssemblyReference.cache
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Abastecimento.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Adcionar_Manutenção.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Adicionar_Veiculo_Próprio.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alertas.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alterar_Cliente.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alterar_Motorista.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alterar_Veiculo.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Cadastro_de_Usuário.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Cliente_.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Cobrancas.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Entrada_de_Veiculo.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Entradas_de_Veiculos.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Cliente.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Motoristas.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Usuário.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Veiculo.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Exibir_Cliente.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Exibir_Motoristas.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Exibir_Usuário.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.FrmTeladeLogin.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Locação.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Manutençao_Prevista.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Motorista_Próprio.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Multas.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Pagamentos.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Peças.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Pneus.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Properties.Resources.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Sobre.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Requisição_de_Manuntenção.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Servicos.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Tela_Inicial.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.VALIDAR_LOGIN.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.ExibirVeiculo.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-Frotas-de-Veiculos.csproj.GenerateResource.cache
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-Frotas-de-Veiculos.csproj.CoreCompileInputs.cache
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-FrotadeVeiculos.exe
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-FrotadeVeiculos.pdb
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\wf-FrotadeVeiculos.exe.config
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\wf-FrotadeVeiculos.exe
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\wf-FrotadeVeiculos.pdb
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\bll.dll
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dal.dll
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dto.dll
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\bll.pdb
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dal.pdb
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dto.pdb
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-Frotas-de-Veiculos.csproj.CopyComplete
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\wf-FrotadeVeiculos.exe.config
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\wf-FrotadeVeiculos.exe
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\wf-FrotadeVeiculos.pdb
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\bll.dll
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dal.dll
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dto.dll
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\bll.pdb
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dal.pdb
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dto.pdb
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-Frotas-de-Veiculos.csprojAssemblyReference.cache
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Abastecimento.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Adcionar_Manutenção.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Adicionar_Veiculo_Próprio.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alertas.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alterar_Cliente.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alterar_Motorista.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alterar_Veiculo.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Cadastro_de_Usuário.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Cliente_.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Cobrancas.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Entrada_de_Veiculo.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Entradas_de_Veiculos.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Cliente.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Motoristas.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Usuário.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Veiculo.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Exibir_Cliente.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Exibir_Motoristas.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Exibir_Usuário.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.FrmTeladeLogin.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Locação.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Manutençao_Prevista.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Motorista_Próprio.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Multas.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Pagamentos.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Peças.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Pneus.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Properties.Resources.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Sobre.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Requisição_de_Manuntenção.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Servicos.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Tela_Inicial.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.VALIDAR_LOGIN.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.ExibirVeiculo.resources
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-Frotas-de-Veiculos.csproj.GenerateResource.cache
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-Frotas-de-Veiculos.csproj.CoreCompileInputs.cache
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-Frotas-de-Veiculos.csproj.CopyComplete
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-FrotadeVeiculos.exe
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-FrotadeVeiculos.pdb
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\bin\Debug\wf-FrotadeVeiculos.exe.config
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\bin\Debug\wf-FrotadeVeiculos.exe
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\bin\Debug\wf-FrotadeVeiculos.pdb
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\bin\Debug\bll.dll
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dal.dll
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dto.dll
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\bin\Debug\bll.pdb
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dal.pdb
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dto.pdb
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-Frotas-de-Veiculos.csprojAssemblyReference.cache
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Abastecimento.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Adcionar_Manutenção.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Adicionar_Veiculo_Próprio.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alertas.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alterar_Cliente.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alterar_Motorista.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alterar_Veiculo.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Cadastro_de_Usuário.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Cliente_.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Cobrancas.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Entrada_de_Veiculo.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Entradas_de_Veiculos.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Cliente.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Motoristas.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Usuário.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Veiculo.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Exibir_Cliente.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Exibir_Motoristas.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Exibir_Usuário.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.FrmTeladeLogin.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Locação.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Manutençao_Prevista.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Motorista_Próprio.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Multas.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Pagamentos.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Peças.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Pneus.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Properties.Resources.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Sobre.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Requisição_de_Manuntenção.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Servicos.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Tela_Inicial.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.VALIDAR_LOGIN.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.ExibirVeiculo.resources
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-Frotas-de-Veiculos.csproj.GenerateResource.cache
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-Frotas-de-Veiculos.csproj.CoreCompileInputs.cache
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-Frotas-de-Veiculos.csproj.CopyComplete
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-FrotadeVeiculos.exe
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-FrotadeVeiculos.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\bin\Debug\wf-FrotadeVeiculos.exe.config
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\bin\Debug\wf-FrotadeVeiculos.exe
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\bin\Debug\wf-FrotadeVeiculos.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\bin\Debug\bll.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dal.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dto.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\bin\Debug\bll.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dal.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dto.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-Frotas-de-Veiculos.csprojAssemblyReference.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Abastecimento.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Adcionar_Manutenção.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Adicionar_Veiculo_Próprio.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alertas.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alterar_Cliente.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alterar_Motorista.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alterar_Veiculo.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Cadastro_de_Usuário.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Cliente_.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Cobrancas.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Entrada_de_Veiculo.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Entradas_de_Veiculos.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Cliente.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Motoristas.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Usuário.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Veiculo.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Exibir_Cliente.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Exibir_Motoristas.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Exibir_Usuário.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.FrmTeladeLogin.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Locação.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Manutençao_Prevista.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Motorista_Próprio.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Multas.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Pagamentos.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Peças.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Pneus.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Properties.Resources.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Sobre.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Requisição_de_Manuntenção.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Servicos.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Tela_Inicial.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.VALIDAR_LOGIN.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.ExibirVeiculo.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-Frotas-de-Veiculos.csproj.GenerateResource.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-Frotas-de-Veiculos.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-Frotas-de-Veiculos.csproj.CopyComplete
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-FrotadeVeiculos.exe
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf-FrotadeVeiculos.pdb

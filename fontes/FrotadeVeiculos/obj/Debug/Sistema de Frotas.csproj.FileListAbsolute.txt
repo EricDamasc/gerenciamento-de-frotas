@@ -1,0 +1,49 @@
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\bin\Debug\bll.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dal.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dto.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\bin\Debug\bll.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dal.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\bin\Debug\dto.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\Sistema de Frotas.csprojAssemblyReference.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Abastecimento.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Adcionar_Manutenção.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Adicionar_Veiculo_Próprio.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alertas.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alterar_Cliente.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alterar_Motorista.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Alterar_Veiculo.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Cadastro_de_Usuário.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Cliente_.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Cobrancas.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Entrada_de_Veiculo.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Entradas_de_Veiculos.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Cliente.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Motoristas.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Usuário.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Excluir_Veiculo.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Exibir_Cliente.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Exibir_Motoristas.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Exibir_Usuário.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.FrmTeladeLogin.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Locação.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Manutençao_Prevista.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Motorista_Próprio.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Multas.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Pagamentos.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Peças.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Pneus.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Properties.Resources.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Sobre.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Requisição_de_Manuntenção.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Servicos.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.Tela_Inicial.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.VALIDAR_LOGIN.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\wf_FrotadeVeiculos.ExibirVeiculo.resources
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\Sistema de Frotas.csproj.GenerateResource.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\Sistema de Frotas.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\Sistema de Frotas.csproj.CopyComplete
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\bin\Debug\Sistema de Frotas.exe.config
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\bin\Debug\Sistema de Frotas.exe
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\bin\Debug\Sistema de Frotas.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\Sistema de Frotas.exe
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\FrotadeVeiculos\obj\Debug\Sistema de Frotas.pdb

@@ -1,0 +1,33 @@
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\dto\bin\Debug\dto.dll
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\dto\bin\Debug\dto.pdb
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\dto\obj\Debug\dto.csproj.CoreCompileInputs.cache
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\dto\obj\Debug\dto.dll
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\dto\obj\Debug\dto.pdb
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\dto\bin\Debug\dto.dll
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\dto\bin\Debug\dto.pdb
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\dto\obj\Debug\dto.csprojAssemblyReference.cache
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\dto\obj\Debug\dto.csproj.CoreCompileInputs.cache
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\dto\obj\Debug\dto.dll
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\dto\obj\Debug\dto.pdb
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\dto\bin\Debug\dto.dll
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\dto\bin\Debug\dto.pdb
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\dto\obj\Debug\dto.csprojAssemblyReference.cache
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\dto\obj\Debug\dto.csproj.CoreCompileInputs.cache
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\dto\obj\Debug\dto.dll
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\dto\obj\Debug\dto.pdb
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\dto\bin\Debug\dto.dll
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\dto\bin\Debug\dto.pdb
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\dto\obj\Debug\dto.csproj.CoreCompileInputs.cache
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\dto\obj\Debug\dto.dll
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\dto\obj\Debug\dto.pdb
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\dto\bin\Debug\dto.dll
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\dto\bin\Debug\dto.pdb
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\dto\obj\Debug\dto.csprojAssemblyReference.cache
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\dto\obj\Debug\dto.csproj.CoreCompileInputs.cache
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\dto\obj\Debug\dto.dll
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\dto\obj\Debug\dto.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\dto\bin\Debug\dto.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\dto\bin\Debug\dto.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\dto\obj\Debug\dto.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\dto\obj\Debug\dto.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\dto\obj\Debug\dto.pdb

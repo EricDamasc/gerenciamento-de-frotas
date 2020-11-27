@@ -1,0 +1,72 @@
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\dal\bin\Debug\dal.dll
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\dal\bin\Debug\dal.pdb
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\dal\obj\Debug\dal.csprojAssemblyReference.cache
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\dal\obj\Debug\dal.csproj.CoreCompileInputs.cache
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\dal\obj\Debug\dal.dll
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\dal\obj\Debug\dal.pdb
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\dal\bin\Debug\dto.dll
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\dal\bin\Debug\dto.pdb
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\fontes\dal\obj\Debug\dal.csproj.CopyComplete
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\dal\bin\Debug\dal.dll
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\dal\bin\Debug\dal.pdb
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\dal\bin\Debug\dto.dll
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\dal\bin\Debug\dto.pdb
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\dal\obj\Debug\dal.csprojAssemblyReference.cache
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\dal\obj\Debug\dal.csproj.CoreCompileInputs.cache
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\dal\obj\Debug\dal.csproj.CopyComplete
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\dal\obj\Debug\dal.dll
+C:\Users\HP ProBook 640\Downloads\SolFrota\SolFrota\fontes\dal\obj\Debug\dal.pdb
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\dal\bin\Debug\dal.dll
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\dal\bin\Debug\dal.pdb
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\dal\bin\Debug\dto.dll
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\dal\bin\Debug\dto.pdb
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\dal\obj\Debug\dal.csprojAssemblyReference.cache
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\dal\obj\Debug\dal.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\dal\obj\Debug\dal.csproj.CopyComplete
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\dal\obj\Debug\dal.dll
+C:\Users\Pichau\Downloads\SolFrota\SolFrota\fontes\dal\obj\Debug\dal.pdb
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\dal\bin\Debug\dal.dll
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\dal\bin\Debug\dal.pdb
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\dal\bin\Debug\dto.dll
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\dal\bin\Debug\dto.pdb
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\dal\obj\Debug\dal.csprojAssemblyReference.cache
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\dal\obj\Debug\dal.csproj.CoreCompileInputs.cache
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\dal\obj\Debug\dal.csproj.CopyComplete
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\dal\obj\Debug\dal.dll
+C:\Users\ana_d\Downloads\SolFrota\SolFrota\fontes\dal\obj\Debug\dal.pdb
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\dal\bin\Debug\dal.dll
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\dal\bin\Debug\dal.pdb
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\dal\bin\Debug\dto.dll
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\dal\bin\Debug\dto.pdb
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\dal\obj\Debug\dal.csproj.CoreCompileInputs.cache
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\dal\obj\Debug\dal.csproj.CopyComplete
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\dal\obj\Debug\dal.dll
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\dal\obj\Debug\dal.pdb
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\SolFrota\SolFrota\fontes\dal\obj\Debug\dal.csprojAssemblyReference.cache
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\dal\bin\Debug\dal.dll
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\dal\bin\Debug\dal.pdb
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\dal\bin\Debug\dto.dll
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\dal\bin\Debug\dto.pdb
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\dal\obj\Debug\dal.csprojAssemblyReference.cache
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\dal\obj\Debug\dal.csproj.CoreCompileInputs.cache
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\dal\obj\Debug\dal.csproj.CopyComplete
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\dal\obj\Debug\dal.dll
+F:\BACKUP(ERIC)\Faculdade\PIM\PIM IV\BACKUP PIM\SolFrota\SolFrota\fontes\dal\obj\Debug\dal.pdb
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\dal\bin\Debug\dal.dll
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\dal\bin\Debug\dal.pdb
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\dal\bin\Debug\dto.dll
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\dal\bin\Debug\dto.pdb
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\dal\obj\Debug\dal.csprojAssemblyReference.cache
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\dal\obj\Debug\dal.csproj.CoreCompileInputs.cache
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\dal\obj\Debug\dal.csproj.CopyComplete
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\dal\obj\Debug\dal.dll
+C:\Users\ana_d\OneDrive\Área de Trabalho\SolFrota\fontes\dal\obj\Debug\dal.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\dal\bin\Debug\dal.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\dal\bin\Debug\dal.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\dal\bin\Debug\dto.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\dal\bin\Debug\dto.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\dal\obj\Debug\dal.csprojAssemblyReference.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\dal\obj\Debug\dal.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\dal\obj\Debug\dal.csproj.CopyComplete
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\dal\obj\Debug\dal.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\SolFrota\fontes\dal\obj\Debug\dal.pdb
